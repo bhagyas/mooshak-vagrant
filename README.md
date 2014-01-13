@@ -36,6 +36,10 @@ Configuration
 -----
 You can change the host port by modifying the Vagrantfile available in the project.
 
+Notes
+----
+Vagrant by default sets the time zone of the guest VM to UTC. You will have to change it manually once the server is set up.
+
 Version history
 ------
 Initial version - Note: This doesn't contain the javac compiler.
