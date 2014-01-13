@@ -20,7 +20,8 @@ mooshak-vagrant aims to simplify the installation and setting up for mooshak ins
 Pre-requisites
 -------
 - Install vagrant from (http://www.vagrantup.com) on a Linux/Mac OS/ Windows host
-
+- Install Oracle VirtualBox from (https://www.virtualbox.org)
+ 
 Setting up the server
 --------
 1. Checkout the project or download the files and extract to a location. (example ~/mooshak)
